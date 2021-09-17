@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NetCore3._1SwaggerKullanimi.Model;
 
 namespace NetCore3._1SwaggerKullanimi.Controllers
 {

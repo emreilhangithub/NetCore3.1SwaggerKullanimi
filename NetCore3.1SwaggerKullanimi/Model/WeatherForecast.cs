@@ -1,6 +1,6 @@
 using System;
 
-namespace NetCore3._1SwaggerKullanimi
+namespace NetCore3._1SwaggerKullanimi.Model
 {
     public class WeatherForecast
     {
